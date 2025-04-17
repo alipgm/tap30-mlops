@@ -1,9 +1,0 @@
-[tool.black]
-
-line-lenght = 88
-target-version = ['py312']
-include = '\.pyi?|\.ipynb$'
-
-[tool.isort]
-profile = 'black'
-
